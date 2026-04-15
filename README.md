@@ -1,45 +1,45 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Hey, I'm Manish
+👋 Hey, I'm **Manish**
+🚀 Backend Developer | Exploring AI & System Design
 
-🔧 Backend Developer passionate about scalable systems
-
-* 🟩 Node.js (APIs & backend)
-* 🗄️ MySQL (structured data)
-* 🍃 MongoDB (NoSQL)
-* ⚡ Redis (caching)
-* 🐳 Docker (containers)
+I build scalable backend systems and modern web apps with a focus on performance, clean architecture, and real-world impact.
 
 ---
 
-## 🎯 API Development
+## 🔧 Tech Stack
 
-* REST APIs
-* 
----
-
-## 💡 DevOps
-
-* Docker + Nginx
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB, MySQL, Redis
+* **Frontend:** React.js
+* **DevOps:** Docker, Nginx
+* **Other:** REST APIs, Microservices, JWT Auth
 
 ---
 
-## 🚀 Currently Learning
+## 🎯 What I’m Focused On
 
-* System Design
-* DSA
----
-
-## 💻 Tech Stack:
-
-Node.js | React | MongoDB | MySQL | Redis | Docker | AWS | Git
+* System Design & scalable architectures
+* Backend performance optimization
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Manish9350\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com?user=Manish9350\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9350\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/manishverma2003/
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just write code — I build systems that can scale 🚀
